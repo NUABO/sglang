@@ -1,0 +1,32 @@
+python/sglang/srt/mem_cache/storage/mooncake_store/mooncake_store.py
+  s_1ce36ff907874c::t_7051838f3739d6 15
+  s_1ce36ff907874c::t_a11a9a0eebb3d5 512-521
+python/sglang/srt/distributed/device_communicators/mooncake_transfer_engine.py
+  s_1ce36ff907874c::t_a7cd63a3893e93 8-9
+  s_f345b16d32d81a::t_444d2a0bde08d4 213-220,225-233
+  s_f345b16d32d81a::t_5cb1a3c147d5df 16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "28a4ed75a46d4e83530c06abc5f510993ee19123",
+  "prompts": {},
+  "sessions": {
+    "s_1ce36ff907874c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "22f9a920-cf71-47dd-816c-7594b054eb4b",
+        "model": "glm-5.2"
+      },
+      "human_author": "tan changzhi <544463199@qq.com>"
+    },
+    "s_f345b16d32d81a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f7ccec41-e709-404e-bfa8-130e18482109",
+        "model": "glm-5.3"
+      },
+      "human_author": "tan changzhi <544463199@qq.com>"
+    }
+  }
+}
